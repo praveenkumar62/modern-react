@@ -1,0 +1,58 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "name": "Praveen",
+      "age": 23,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "name": "Gokul",
+      "age": 24,
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "name": "Sree",
+      "age": 25,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "name": "Ram",
+      "age": 20,
+      "rating": 4.3
+    },
+    {
+      "id": 5,
+      "name": "Sarath",
+      "age": 27,
+      "rating": 3
+    },
+    {
+      "name": "Praveenkumar C",
+      "age": "12",
+      "rating": "5",
+      "id": 6
+    },
+    {
+      "name": "customer",
+      "age": "23",
+      "rating": "2",
+      "id": 7
+    },
+    {
+      "name": "Ramu",
+      "age": "15",
+      "rating": "3.5",
+      "id": 8
+    },
+    {
+      "name": "Shark",
+      "age": "34",
+      "rating": "4.3",
+      "id": 10
+    }
+  ]
+}
